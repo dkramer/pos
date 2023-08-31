@@ -1,8 +1,8 @@
 Hello World.
 
 I used an h2 in memory DB.
-I used plain JDBC to access the DB.
-Opted for a DB to make sure my code runs and can be tested
+I used plain JDBC to access the DB as per instructions. Normally I would use some type of ORM.
+Opted for a DB to make sure my code runs and can be tested.
 
 Project Request:
 Build a Spring rest service that accepts a long CustomerID and returns a Map<long InvoiceID, String TenderType>. This method will get all
